@@ -4,3 +4,6 @@
 introduction-to-python/*.txt
 introduction-to-python/*.json
 *.h5
+
+# Environnement virtuel Python
+venv/
